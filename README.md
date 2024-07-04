@@ -1,3 +1,19 @@
+- [Tech stack](#tech-stack)
+    - [Typescript React.js](#typescript-reactjs)
+    - [Recoil](#recoil)
+    - [Vite](#vite)
+      - [Vite examples with react-ts js](#vite-examples-with-react-ts-js)
+    - [Axios](#axios)
+      - [Extending integration with React Context](#extending-integration-with-react-context)
+    - [Tailwind CSS](#tailwind-css)
+    - [C# .Net core (Node.js, Go)](#c-net-core-nodejs-go)
+    - [microservices architecture running on Google Cloud (Docker/Kubernetes)](#microservices-architecture-running-on-google-cloud-dockerkubernetes)
+    - [direct REST Api communication + RabbitMQ](#direct-rest-api-communication--rabbitmq)
+    - [TDD](#tdd)
+    - [Jenkins CI/CD](#jenkins-cicd)
+    - [Elastic Stack](#elastic-stack)
+    - [MS Teams](#ms-teams)
+    - [ClickUp](#clickup)
 
 # Tech stack
 
